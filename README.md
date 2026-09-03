@@ -6,8 +6,8 @@ Tracking my journey of solving 1 problem a day until I land a Software Engineeri
 
 ## 📊 Progress Tracker
 
-| Day | Date | Problem | Topic | Difficulty | Solution | LinkedIn Post |
-| :---: | :---: | :--- | :--- | :---: | :---: | :---: |
+| Day | Date | Problem | Topic | Difficulty | | LinkedIn Post |
+| :---: | :---: | :--- | :--- | :---: | Easy | :---: |
 | 001 | Day 1 | [Two Sum](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/01-hashtable/001-two-sum.js) | Hash Maps | Easy | | [Post](#) |
 
 ## 🛠️ Tech Stack & Languages
