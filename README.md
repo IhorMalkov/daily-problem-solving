@@ -8,7 +8,7 @@ Tracking my journey of solving 1 problem a day until I land a Software Engineeri
 
 | Day | Date | Problem | Topic | Difficulty | Solution | LinkedIn Post |
 | :---: | :---: | :--- | :--- | :---: | :---: | :---: |
-| 001 | Day 1 | [Two Sum](./leetcode/02-hash-maps/001-two-sum) | Hash Maps | Easy | | [Post](#) |
+| 001 | Day 1 | [Two Sum](./leetcode/01-hashtable/001-two-sum) | Hash Maps | Easy | | [Post](#) |
 
 ## 🛠️ Tech Stack & Languages
 - **Primary Language:** JavaScript 
