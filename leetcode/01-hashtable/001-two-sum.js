@@ -10,7 +10,7 @@ var twoSum = function (nums, target) {
       return [map.get(complement), i];
     }
 
-    map.set(nums[i], i);
+    console.log(map.get(2));
   }
 };    
 
