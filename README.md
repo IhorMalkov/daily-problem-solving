@@ -16,7 +16,7 @@ Tracking my journey of solving 1 problem a day until I land a Software Engineeri
 | 006 | Day 6 | Product of Array Except Self | Array, Prefix Sum | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/01-hashtable/006-productOfArrExceptSelf.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7502939008604192768/) |
 | 007 | Day 7 | Longest Consecutive Sequence | Array, Hash Table, Union-Find| Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/01-hashtable/007-longestConsecutiveSequnce.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7503313474391937024/) |
 
-
+| 007 | Day 8| Longest Consecutive Sequence | Array, Two Pointers| Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/01-hashtable/007-longestConsecutiveSequnce.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7503313474391937024/) |
 ## 🛠️ Tech Stack & Languages
 - **Primary Language:** JavaScript 
 - **Core Topics Covered:** Arrays, Hash Maps **-
