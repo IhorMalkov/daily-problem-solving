@@ -16,7 +16,6 @@ Tracking my journey of solving 1 problem a day until I land a Software Engineeri
 | 006 | Day 6 | Product of Array Except Self | Array, Prefix Sum | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/01-hashtable/006-productOfArrExceptSelf.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7502939008604192768/) |
 | 007 | Day 7 | Longest Consecutive Sequence | Array, Hash Table, Union-Find| Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/01-hashtable/007-longestConsecutiveSequnce.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7503313474391937024/) |
 | 008 | Day 8| Two Pointers | Array, Two Pointers| Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/02-twoPointers/008t-validPalindrom.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7503694882989821953/) |
-
 | 009 | Day 9 | Two Sum II - Input Array Is Sorted | Two Pointers | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/02-twoPointers/009-two-sum2.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7503984426695966720/) |
 
 ## 🛠️ Tech Stack & Languages
