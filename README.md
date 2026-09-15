@@ -20,6 +20,7 @@ Tracking my journey of solving 1 problem a day until I land a Software Engineeri
 | 010 | Day 10 | 3um | Two Pointers, Hash Tables | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/02-twoPointers/010-3Sum.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7504389429747326977/) |
 | 011 | Day 11 | Move Zeroes | Two Pointers | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/02-twoPointers/011-MoveZeroes.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7504761984530239488/) |
 | 012 | Day 12 | Best Time to Buy and Sell Stock | Sliding Window | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/02-twoPointers/012-BestTimeToBuyAndSellStocks.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7505134998858047488/) |
+| 013 | Day 13 | Container With Most Water | Two Pointers | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/02-twoPointers/013-RainWater.js/ | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7505488933372235777/)) |
 
 ## 🛠️ Tech Stack & Languages
 - **Primary Language:** JavaScript 
