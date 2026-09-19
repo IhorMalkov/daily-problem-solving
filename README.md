@@ -24,6 +24,7 @@ Tracking my journey of solving 1 problem a day until I land a Software Engineeri
 | 014 | Day 14 | Longest Substring Without Repeating Characters | Sliding Window | Medium | [Code](http://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/02-twoPointers/014-LongestLengthSubstring.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7505840908433686530/) |
 | 015 | Day 15 | Longest Repeating Character Replacement | Sliding Window | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/02-twoPointers/015-LongestRepeatingChar.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7506221547259400192/?skipRedirect=true) |
 | 016 | Day 16 | Sliding Window Maximum | Sliding Window / Monotonic Queue | Hard | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/02-twoPointers/016-SlidingWindowMaximum.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7506585954384654337/) |
+| 017 | Day 17 | Valid Parentheses | Stack | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/03-stack/017-ValidParentheses.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7506934727484821504/) |
 
 ## 🛠️ Tech Stack & Languages
 - **Primary Language:** JavaScript 
