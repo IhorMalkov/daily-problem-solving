@@ -26,6 +26,7 @@ Tracking my journey of solving 1 problem a day until I land a Software Engineeri
 | 016 | Day 16 | Sliding Window Maximum | Sliding Window / Monotonic Queue | Hard | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/02-twoPointers/016-SlidingWindowMaximum.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7506585954384654337/) |
 | 017 | Day 17 | Valid Parentheses | Stack | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/03-stack/017-ValidParentheses.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7506934727484821504/) |
 | 018 | Day 18 | Daily Temperatures | Stack / Monotonic Stack | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/03-stack/018-DailyTemperature.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7507298197665366016/) |
+| 019 | Day 19 | Generate Parentheses | Backtracking / DFS | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/03-stack/019-generateParentheses.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7507511639471079425/) |
 
 ## 🛠️ Tech Stack & Languages
 - **Primary Language:** JavaScript 
