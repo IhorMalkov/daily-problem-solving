@@ -27,6 +27,7 @@ Tracking my journey of solving 1 problem a day until I land a Software Engineeri
 | 017 | Day 17 | Valid Parentheses | Stack | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/03-stack/017-ValidParentheses.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7506934727484821504/) |
 | 018 | Day 18 | Daily Temperatures | Stack / Monotonic Stack | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/03-stack/018-DailyTemperature.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7507298197665366016/) |
 | 019 | Day 19 | Generate Parentheses | Backtracking / DFS | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/03-stack/019-generateParentheses.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7507511639471079425/) |
+| 020 | Day 20 | Baseball Game | Stack | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/03-stack/020-BaseballGame.js) | [Post](https://www.linkedin.com/posts/ihmalkov_dailycode-javascript-softwareengineering-share-7508031056407818242-DXqs/) |
 
 ## 🛠️ Tech Stack & Languages
 - **Primary Language:** JavaScript 
