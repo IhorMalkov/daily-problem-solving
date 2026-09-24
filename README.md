@@ -29,6 +29,7 @@ Tracking my journey of solving 1 problem a day until I land a Software Engineeri
 | 019 | Day 19 | Generate Parentheses | Backtracking / DFS | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/03-stack/019-generateParentheses.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7507511639471079425/) |
 | 020 | Day 20 | Baseball Game | Stack | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/03-stack/020-BaseballGame.js) | [Post](https://www.linkedin.com/posts/ihmalkov_dailycode-javascript-softwareengineering-share-7508031056407818242-DXqs/) |
 | 021 | Day 21 | Backspace String Compare | Stack | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/03-stack/021-BackspaceCompare.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7508335184849854464/) |
+| 022 | Day 22 | Binary Search | Binary Search | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/04-binarySearch/01-binarySearch.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7508744345861328897/) |
 
 ## 🛠️ Tech Stack & Languages
 - **Primary Language:** JavaScript 
