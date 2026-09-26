@@ -31,6 +31,7 @@ Tracking my journey of solving 1 problem a day until I land a Software Engineeri
 | 021 | Day 21 | Backspace String Compare | Stack | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/03-stack/021-BackspaceCompare.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7508335184849854464/) |
 | 022 | Day 22 | Binary Search | Binary Search | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/04-binarySearch/01-binarySearch.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7508744345861328897/) |
 | 023 | Day 23 | Koko Eating Bananas | Binary Search | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/04-binarySearch/02-KokoBananas.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7509113226324807680/) |
+| 024 | Day 24 | Find Minimum in Rotated Sorted Array | Binary Search | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/04-binarySearch/03-FindMinimumElementRotatedArr.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7509466767422013440/) |
 
 ## 🛠️ Tech Stack & Languages
 - **Primary Language:** JavaScript 
