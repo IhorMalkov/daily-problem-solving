@@ -33,7 +33,7 @@ Tracking my journey of solving 1 problem a day until I land a Software Engineeri
 | 023 | Day 23 | Koko Eating Bananas | Binary Search | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/04-binarySearch/02-KokoBananas.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7509113226324807680/) |
 | 024 | Day 24 | Find Minimum in Rotated Sorted Array | Binary Search | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/04-binarySearch/03-FindMinimumElementRotatedArr.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7509466767422013440/) |
 | 025 | Day 25 | Search in Rotated Sorted Array | Binary Search | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/04-binarySearch/04-%20SearchinRotatedSortedArray.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7509780255524429825/) |
-
+| 026 | Day 26 | Reverse Linked List | Linked List | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/01-reverseLinkedList.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7510195402780954624/) |
 
 ## 🛠️ Tech Stack & Languages
 - **Primary Language:** JavaScript 
