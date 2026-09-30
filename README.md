@@ -35,6 +35,7 @@ Tracking my journey of solving 1 problem a day until I land a Software Engineeri
 | 025 | Day 25 | Search in Rotated Sorted Array | Binary Search | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/04-binarySearch/04-%20SearchinRotatedSortedArray.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7509780255524429825/) |
 | 026 | Day 26 | Reverse Linked List | Linked List | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/01-reverseLinkedList.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7510195402780954624/) |
 | 027 | Day 27 | Merge Two Sorted Lists | Linked List | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/02-mergeTwoSortedLists.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7510565885221175296/) |
+| 028 | Day 28 | Remove Duplicates from Sorted List | Linked List | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/03-deleteDuplicates.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7510907408123142144/) |
 
 ## 🛠️ Tech Stack & Languages
 - **Primary Language:** JavaScript 
