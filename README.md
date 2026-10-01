@@ -36,6 +36,7 @@ Tracking my journey of solving 1 problem a day until I land a Software Engineeri
 | 026 | Day 26 | Reverse Linked List | Linked List | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/01-reverseLinkedList.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7510195402780954624/) |
 | 027 | Day 27 | Merge Two Sorted Lists | Linked List | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/02-mergeTwoSortedLists.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7510565885221175296/) |
 | 028 | Day 28 | Remove Duplicates from Sorted List | Linked List | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/03-deleteDuplicates.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7510907408123142144/) |
+| 029 | Day 29 | Remove Linked List Elements | Linked List | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/04-removeElementsInLinkedlist.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7511261702726811648/) |
 
 ## 🛠️ Tech Stack & Languages
 - **Primary Language:** JavaScript 
