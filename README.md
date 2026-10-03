@@ -37,6 +37,8 @@ Tracking my journey of solving 1 problem a day until I land a Software Engineeri
 | 027 | Day 27 | Merge Two Sorted Lists | Linked List | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/02-mergeTwoSortedLists.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7510565885221175296/) |
 | 028 | Day 28 | Remove Duplicates from Sorted List | Linked List | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/03-deleteDuplicates.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7510907408123142144/) |
 | 029 | Day 29 | Remove Linked List Elements | Linked List | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/04-removeElementsInLinkedlist.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7511261702726811648/) |
+| 030 | Day 30 | Middle of the Linked List | Linked List / Two Pointers | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/05-findTheMiddleOfTheList.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7511621746064752640/) |
+| 031 | Day 31 | Reorder List | Linked List / Two Pointers | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/06-reorderlist.jss) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7511989106369839104/) |
 
 ## 🛠️ Tech Stack & Languages
 - **Primary Language:** JavaScript 
