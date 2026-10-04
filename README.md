@@ -40,6 +40,7 @@ Tracking my journey of solving 1 problem a day until I land a Software Engineeri
 | 030 | Day 30 | Middle of the Linked List | Linked List / Two Pointers | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/05-findTheMiddleOfTheList.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7511621746064752640/) |
 | 031 | Day 31 | Reorder List | Linked List / Two Pointers | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/06-reorderlist.jss) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7511989106369839104/) |
 | 032 | Day 32 | Weekly Contest 517 Problem | Hash Map | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/01-hashtable/008-CountIntegersInaBlock.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7512356829335609346/) |
+| 033 | Day 33 | Add Two Numbers | Linked List | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/07-addTwoNumbers.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7512586947446554624/) |
 
 ## 🛠️ Tech Stack & Languages
 - **Primary Language:** JavaScript 
