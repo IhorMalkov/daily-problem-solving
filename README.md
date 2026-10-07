@@ -41,6 +41,8 @@ Tracking my journey of solving 1 problem a day until I land a Software Engineeri
 | 031 | Day 31 | Reorder List | Linked List / Two Pointers | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/06-reorderlist.jss) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7511989106369839104/) |
 | 032 | Day 32 | Weekly Contest 517 Problem | Hash Map | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/01-hashtable/008-CountIntegersInaBlock.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7512356829335609346/) |
 | 033 | Day 33 | Add Two Numbers | Linked List | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/07-addTwoNumbers.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7512586947446554624/) |
+| 034 | Day 34| Has Cycle | Linked List | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/08-hasCycle.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7513073781804851200/) |
+| 035 | Day 35 | Invert Binary Tree | Trees / DFS | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/06-trees/01-invertBinaryTree.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7513443529017262080/) |
 
 ## 🛠️ Tech Stack & Languages
 - **Primary Language:** JavaScript 
