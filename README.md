@@ -43,6 +43,10 @@ Tracking my journey of solving 1 problem a day until I land a Software Engineeri
 | 033 | Day 33 | Add Two Numbers | Linked List | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/07-addTwoNumbers.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7512586947446554624/) |
 | 034 | Day 34| Has Cycle | Linked List | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/05-linkedlist/08-hasCycle.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7513073781804851200/) |
 | 035 | Day 35 | Invert Binary Tree | Trees / DFS | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/06-trees/01-invertBinaryTree.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7513443529017262080/) |
+| 036 | Day 36 | MaxDepth | Trees / DFS | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/06-trees/02-maximumDepthofTree.js) | [Post](https://lnkd.in/p/gJMAFaWd) |
+| 037 | Day 37 | Search in BST | Trees / DFS | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/06-trees/03-searchBinaryTree.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7514158424654364673/ ) |
+| 038 | Day 38 | Same  Tree | Trees / DFS | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/06-trees/04-SameTree.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7514496546323939328/) |
+
 
 ## 🛠️ Tech Stack & Languages
 - **Primary Language:** JavaScript 
