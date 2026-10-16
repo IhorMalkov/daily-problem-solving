@@ -46,6 +46,10 @@ Tracking my journey of solving 1 problem a day until I land a Software Engineeri
 | 036 | Day 36 | MaxDepth | Trees / DFS | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/06-trees/02-maximumDepthofTree.js) | [Post](https://lnkd.in/p/gJMAFaWd) |
 | 037 | Day 37 | Search in BST | Trees / DFS | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/06-trees/03-searchBinaryTree.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7514158424654364673/ ) |
 | 038 | Day 38 | Same  Tree | Trees / DFS | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/06-trees/04-SameTree.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7514496546323939328/) |
+| 039 | Day 39 | Check  Tree | Trees / DFS | Easy | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/06-trees/05-Subroot.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7515633707865526273/) |
+| 040 | Day 40 | Count Nodes | Trees / DFS | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/06-trees/07-CountNodes.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7515933045242138624/) |
+| 041 | Day 41 | Lowest Common Anccestor | Trees / DFS | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/06-trees/04-SameTree.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7516328555291529217/) |
+| 042 | Day 42 | Right Look Tree | Trees / DFS | Medium | [Code](https://github.com/IhorMalkov/daily-problem-solving/blob/main/leetcode/06-trees/09-RightLookTree.js) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7516700910769676288/) |
 
 
 ## 🛠️ Tech Stack & Languages
